@@ -2,9 +2,7 @@ body{
     height: 100vh;
     font-family: 'Roboto', sans-serif;
 }
-a{
-    text-decoration: none;
-}
+
 
 .container{
     background-color: #AEDEFC;
@@ -41,4 +39,7 @@ p{
 }
 .am-p-color{
     color: aliceblue;
+}
+a{
+    text-decoration: none;
 }
