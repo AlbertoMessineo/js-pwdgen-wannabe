@@ -13,10 +13,6 @@ h1{
     font-weight: 700;
     font-style: italic;
 }
-h1:hover{
-    color: rgb(255, 0, 119);
-    cursor: pointer;
-}
 .color{
     color: #F875AA;
 }
@@ -32,6 +28,7 @@ p{
 .space{
     height: 300px;
 }
+
 .am-cont-color{
     background-color: #025caf;
     padding: 5px 0;
@@ -40,6 +37,11 @@ p{
 .am-p-color{
     color: aliceblue;
 }
-a{
+.link{
     text-decoration: none;
+    color: #F875AA;
+}
+.link:hover{
+    color: rgb(255, 0, 119);
+    cursor: pointer;
 }
